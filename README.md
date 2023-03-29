@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Cydonianknights
-- 👀 I’m interested in contructing database and 
-- 🌱 I’m currently learning R Stuido, Python and visualizer
+- 👀 I’m interested in Data Analytics and Data Science
+- 🌱 I’m currently learning Machine Learning Methodologies
 
 <!---
 Cydonianknights/Cydonianknights is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
