@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Cydonianknights
+
 - 👀 I’m interested in Data Analytics and Data Science
 - 🌱 I’m currently learning Machine Learning Methodologies
 
